@@ -4,7 +4,7 @@ Please fork this repository and paste the github link of your fork on Microsoft 
 
 Team Name: GFZ
 
-Team Member:&nbsp;
-	Bei Zhao - beizhao3 (Captain)&nbsp;
-	Ryan Fraser - rfraser3&nbsp;
-	Yiming Gu - yimingg7&nbsp;
+Team Member: <br />
+&nbsp;Bei Zhao - beizhao3 (Captain) <br />
+&nbsp;Ryan Fraser - rfraser3 <br />
+&nbsp;Yiming Gu - yimingg7 <br />
