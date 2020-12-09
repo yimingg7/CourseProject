@@ -1,4 +1,13 @@
-# CourseProject
+# CS410 CourseProject(Text Classification Competition): Twitter Sarcasm Detection 
+
+## Table of Contents
+
+- [Background](#background)
+- [Install](#install)
+- [Usage](#usage)
+- [Results](#results)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Background
 
@@ -18,14 +27,24 @@ The size of training dataset is 5000 and the size of the test dataset is 1800.
 ### Output
 The output of the project is a anwser.txt document, which includes both id of test sample and a label of either `SARCASM` or `NOT_SARCASM` predicted by the model.
 
+## Install
 
 
+## Usage
 
 
+## Results
 
+
+## Contributing
+
+### Conntributors
 Team Name: GFZ
 
 Team Member: <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bei Zhao - beizhao3 (Captain) <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ryan Fraser - rfraser3 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yiming Gu - yimingg7 <br />
+
+## License
+
