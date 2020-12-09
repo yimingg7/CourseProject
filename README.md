@@ -46,8 +46,20 @@ Each of the ipynb file in the [Code](https://github.com/bzhao10/CourseProject/tr
 
 By following all the steps mentioned above, you will get an answer.txt file.
 
+Please refer to the presentation video for detailed instructions.
+
 ## Results
 
+The following table records the best performance(highest F1 score) by using each model:
+
+| Model| Precision | Recall| F1 |
+|-------|-------|-------|-------|
+| ALBERT  | 0.65814 |0.77222 | 0.71063 |
+| BERT  |    |   | 0.72786 |
+| RoBERTa  | 0.65887 | 0.86888 | 0.74053 |
+| RoBERTa-large  | 0.54708 | 0.98778 | 0.70416 |
+| SqueezeBERT  | 0.61348 | 0.91 | 0.73289 |
+| XML-RoBERTa  | 0.61864 | 0.89222 | 0.73066 |
 
 ## Contributing
 
