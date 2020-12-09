@@ -50,7 +50,7 @@ Please refer to the presentation video for detailed instructions.
 
 ## Results
 
-The following table records the best performance(highest F1 score) by using each model:
+The following table records the best performance achieved (highest F1 score) by using each model:
 
 | Model| Precision | Recall| F1 |
 |-------|-------|-------|-------|
