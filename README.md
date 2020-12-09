@@ -33,10 +33,18 @@ The output of the project is a anwser.txt document, which includes both id of te
 
 ## Install
 
-This project uses [Google Colab](https://colab.research.google.com/). You don't have to install anything locally.
+You can run the whole project on [Google Colab](https://colab.research.google.com/). You don't have to install anything locally.
 
 ## Usage
 
+Each of the ipynb file in the [Code](https://github.com/bzhao10/CourseProject/tree/main/Code) folder represents one solution in the competition.
+
+- ***Step 1*** You can then download two jsonl files, one training data and one test data, in the dataset.
+- ***Step 2*** You can download one of these ipynb files and open it on [Google Colab](https://colab.research.google.com/).
+- ***Step 3*** Then, you need to upload the two jsonl files to [Google Colab](https://colab.research.google.com/) under the dataset folder in the project that you have opened in ***Step 2***.
+- ***Step 4*** Run the code line by line using [Google Colab](https://colab.research.google.com/).
+
+By following all the steps mentioned above, you will get an answer.txt file.
 
 ## Results
 
