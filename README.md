@@ -15,13 +15,17 @@ This is a course project for CS410 Text Information Systems and is a part of a t
 In this competition, it is required that you classify a twitter response in a conversation into either 'sarcasm' or 'not sarcasm'.
 
 ### Data
+
 The dataset is comprised of two jsonl files, including a train.jsonl for data training and a text.jsonl for text classification.
+
 Each line of the training data set includes the following fileds:
 - ***response*** :  the Tweet to be classified
 - ***context*** : the conversation context of the ***response***
 - ***label*** : `SARCASM` or `NOT_SARCASM` 
 - ***id***:  String identifier for sample.
+
 The text classification file (test datset) differs from the training dataset only in that the file lacks the label.
+
 The size of training dataset is 5000 and the size of the test dataset is 1800.
 
 ### Output
