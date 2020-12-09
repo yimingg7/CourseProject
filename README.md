@@ -33,6 +33,7 @@ The output of the project is a anwser.txt document, which includes both id of te
 
 ## Install
 
+This project uses [Google Colab](https://colab.research.google.com/). You don't have to install anything locally.
 
 ## Usage
 
