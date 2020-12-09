@@ -39,9 +39,9 @@ You can run the whole project on [Google Colab](https://colab.research.google.co
 
 Each of the ipynb file in the [Code](https://github.com/bzhao10/CourseProject/tree/main/Code) folder represents one solution in the competition.
 
-- ***Step 1*** You can then download two jsonl files, one training data and one test data, in the dataset.
-- ***Step 2*** You can download one of these ipynb files and open it on [Google Colab](https://colab.research.google.com/).
-- ***Step 3*** Then, you need to upload the two jsonl files to [Google Colab](https://colab.research.google.com/) under the dataset folder in the project that you have opened in ***Step 2***.
+- ***Step 1*** Download two jsonl files, one training data and one test data, from dataset.
+- ***Step 2*** Download one of these ipynb files and open it on [Google Colab](https://colab.research.google.com/).
+- ***Step 3*** Upload the two jsonl files to [Google Colab](https://colab.research.google.com/) under the dataset folder in the project that you have opened in ***Step 2***.
 - ***Step 4*** Run the code line by line using [Google Colab](https://colab.research.google.com/).
 
 By following all the steps mentioned above, you will get an answer.txt file.
