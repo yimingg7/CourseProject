@@ -16,7 +16,7 @@ In this competition, it is required that you classify a twitter response in a co
 
 ### Data
 
-The dataset is comprised of two jsonl files, including a train.jsonl for data training and a text.jsonl for text classification.
+The [dataset](https://github.com/CS410Fall2020/ClassificationCompetition/tree/main/data) is comprised of two jsonl files, including a train.jsonl for data training and a text.jsonl for text classification.
 
 Each line of the training data set includes the following fileds:
 - ***response*** :  the Tweet to be classified
@@ -56,10 +56,13 @@ The following table records the best performance achieved (highest F1 score) by 
 |-------|-------|-------|-------|
 | ALBERT  | 0.65814 |0.77222 | 0.71063 |
 | BERT  | 0.62681 | 0.86778 | 0.72787 |
+| BERT(RSUP) | 0.64717 | 0.76222 | 0.7 |
 | RoBERTa  | 0.65887 | 0.86888 | 0.74053 |
 | RoBERTa-large  | 0.54708 | 0.98778 | 0.70416 |
 | SqueezeBERT  | 0.61348 | 0.91 | 0.73289 |
 | XML-RoBERTa  | 0.61864 | 0.89222 | 0.73066 |
+
+REUP:Remove stopwords and unnecessary puncuations
 
 ## Contributing
 
